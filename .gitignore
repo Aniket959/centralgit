@@ -2,4 +2,5 @@
 * .py
 !fifth.file
 
-[aeiou].txt
+[aeiou]*.txt
+
